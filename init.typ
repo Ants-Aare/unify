@@ -82,6 +82,10 @@
       "units": (_add-money-units(_unit-csv("units-en.csv"))),
       "prefixes": (_prefix-csv("prefixes-en.csv")),
     ),
+    "de": (
+      "units": (_add-money-units(_unit-csv("units-de.csv"))),
+      "prefixes": (_prefix-csv("prefixes-en.csv")),
+    ),
     "ru": (
       "units": (_add-money-units(_unit-csv("units-ru.csv"))),
       "prefixes": (_prefix-csv("prefixes-ru.csv")),
